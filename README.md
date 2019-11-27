@@ -1,0 +1,2 @@
+# BasicJPAAndEasyExcelDemo
+一个基础的jpa项目，里面包含使用jpaReposiroty进行基础CRUD，以及自写DTO实现CURD，并且集成了分页以及使用excelExcel进行excel上传的demo
